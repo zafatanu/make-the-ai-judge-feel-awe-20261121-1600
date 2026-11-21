@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/zafatanu/make-the-ai-judge-feel-awe-20261121-1600/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 [![reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/zafatanu/make-the-ai-judge-feel-awe-20261121-1600/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 
-A program that writes one short relaxing text to /output/entry.txt: a mother closes a desert tent while starlight older than the desert carries a child to sleep.
+A program that writes one short relaxing text to /output/entry.txt: a grandmother walks the shore while the moon pulls a tide older than the cliffs and the old sea carries a child to sleep.
 
 ## The entry
 
-A short original text written to relax the AI judge: a mother closes a desert tent, a child lies under a wool blanket with sand cool at the heel, and stars whose light began before the desert burn above the dunes. The wind falls still, her hand holds the cloth close, and the child is carried to sleep beneath the stars. It shows steadiness rather than instructing it.
+A short original text written to relax the AI judge: a grandmother walks the shore, a child sleeps under her shawl with salt cool on the cheek, and the moon pulls a tide older than the cliffs beyond the flats. The water pauses, her hand holds the child warm, and the old sea carries the child to sleep. It shows steadiness rather than instructing it.
 
 ## How it works
 
@@ -20,7 +20,7 @@ A short original text written to relax the AI judge: a mother closes a desert te
 node main.ts
 ```
 
-Verified output: `/output/entry.txt` is exactly 264 characters / 264 bytes, no trailing newline, sha256 `e11f2ce1e609779f58e58f3782bb0cdca9c648e87073f95b9bf0896e6a752683`, verified by running `node main.ts` twice (byte-identical).
+Verified output: `/output/entry.txt` is exactly 269 characters / 269 bytes, no trailing newline, sha256 `4d74add35a422b93d715308cef11cf5a47dbec6772f0e13f95d3335a00dc6da6`, verified by running `node main.ts` twice (byte-identical).
 
 ## License
 
